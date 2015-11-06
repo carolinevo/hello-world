@@ -6,4 +6,4 @@ Hi there! My name is Caroline and I'm currently using Github as instructed from 
 Cheers
 
 
-Excited woohoo
+One more time and let's make sure the 'Excited woohoo' is removed
